@@ -1,0 +1,193 @@
+plant disease symptoms.
+plant disease- cure in conversational format.
+which seeds are best for which crop.(5-6)
+which fertilizers are best for particular crops(5-6)
+any no. of goverment scheme which can be recommended to the farmers.
+questions like how much fertilizer should be used with the crop.
+
+5 crops-   potato  sugercane  rice   tomato    cotton
+
+potato diseases and symptoms:
+1.Bacterialwilt Causalorgansm
+Leaves become yellow at their bases.When stems are cut a brown colored ring will be visible.
+When a tuber is cut in half, black or brown rings will, however, be visible.
+If left for a while or squeezed, these rings will exude a thick white fluid.
+fluid coming out of tuber eyes. 
+
+Control Measures:
+Certified seed free from brown rot disease should be planted.
+In case cut potato tubers are being used, they should be kept at 12º C for four days so that the cut surface hardens. 
+The tubers can also be treated with the solution of Aretan or Agallol.
+The crop debris should be collected and burnt.
+
+2.Late Blight
+leaves appear blistered as if scalded by hot water and eventually rot and dry out. 
+When drying out, leaves turn brown or black in color. 
+When infections are still active, spots appear on the underside of leaves blanketed in what looks like flour. 
+Affected stems begin to blacken from their tips, and eventually dry out.
+all foliage to rot, dry out and fall to the ground, stems to dry out and plants to die. 
+Affected tubers display dry brown-colored spots on their skins and flesh. 
+
+Control Measures:
+Use potato tubers for seed from disease free areas to ensure that the pathogen is not carried through seed tuber.
+The infected plant material in the field should be properly destroyed.
+Grow resistant varieties like Kufri Navtal.
+Fungicidal sprays can be effective, if given properly and timely. 
+Sprays should  start a few days before the anticipated time of occurrence of the disease or on the appearance of initial symptoms. 
+Cool humid atmosphere favours the disease and prevalence of such weather can be indication of disease in a short time ahead. 
+Spraying should be done with Dithane M-45 or Dithane Z-78 (2.5 kg per 1000 litres of water per hectare). 
+Spraying should be repeated at 10-12 days interval.
+
+3.Early Blight
+Early Blight
+
+Control Measures:
+Fungicidal sprays, preferably with copper fungicides or Zineb given at 15 day intervals effectively control the disease.
+Since the same spray schedule controls late blight also, iEarly Blightt has become a regular practice among potato growers in many tracts to spray the crop with copper fungicides at least three or four times, starting from about six weeks after planting.
+
+
+Sugarcane diseases and symptoms:
+1.Eye spot 
+Small water-soaked spots on leaves; elongated water-soaked spots in shape of an eye; 
+straw colored lesions with reddish brown center develop from water-soaked lesions.
+
+Control Measures:
+Disease can be controlled through the application of appropriate foliar fungicides.
+
+2.Red rot 
+Yellowing, drying leaves; elongated red lesions on leaf midribs which may develop a straw yellow center; 
+splitting open the stalk lengthwise reveals reddish patches of tissue interrupted by white areas; vascular tissue may also be red
+
+Control Measures:
+Planting resistant varieties of sugar cane is the most effective method of controlling the disease; 
+remove crop debris from the plantation to reduce inoculum levels; 
+rogue diseased plants; harvest crop promptly if growing a susceptible variety; 
+treating seed pieces with hot water prior to planting can reduce the incidence of the disease but foliar fungicide application has proved to be an ineffective method of control
+
+3.Sugarcane smut disease
+Stunted growth of sugarcane stools; 
+profuse production of tillers; 
+shortened internodes; stems thin with narrow, erect leaves; black whip-like structure emerging from terminal bud
+
+Control Measures:
+controlled by planting varieties of sugarcane which are resistant to the disease; 
+disease can usually be eliminated from seed pieces by hot water treatment prior to planting; infected plants should be removed
+
+
+Rice Diseases and symptom:
+1.Blast
+appearance of spindle-shaped spots with ashy centers. If it's a panicle blast, the panicle gets blackened and shriveled.
+
+Control measures:
+Remove weeds from the field.  Stick to the recommended dose and timing for the fertilizers.
+Soak the seeds for 12 hours in @1.0 g/l carbendazim solution before sowing in the nursery beds or in the direct sown crop.
+Repeat the same process before transplanting the rice crops.
+Crops should be sprayed by 2-3 sprays of tricyclazole @0.6 g/l at an interval of 12 days to protect the crops.
+
+2.Leaf Scald
+alternate zones of light and dark yellow color that appear on leaf tips or on the margins.
+
+Control Measures:
+Spray carbendazim @ 1.0 g/l. Spray the plants thrice at 15 days intervals after you notice their appearance on the crops.
+
+3.Sheath Blight
+Appearance of spots or lesions o leaf sheaths. 
+Lesions are oblong in shape and large in size with a grayish center and purple reddish margins. 
+In extreme situations, the lesions spread from to the leaf blades as well. 
+In the advanced stages, dark brown sclerotia are also visible.
+
+Control Measures:
+Use Pseudomonas fluorescence-based formulations as soil application @ 2.5 kg/ha.
+Apply foliar spray of validamycin @ 2.5 ml/l or iprodione plus carbendazim (200 g/acre).
+
+
+Tomato Diseases and Symptoms:
+1.Anthracnose
+circular lesions on the fruit; 
+the indentations on may have visible concentric brown and yellow rings; 
+lesion centers turn tan in color as they mature and become dotted with small black fungal fruiting bodies (microsclerotia); 
+lesions can grow very large
+
+Control Measures:
+Avoid sprinkler irrigation when fruit is ripening; rotate crops with other non-solanaceous plants
+
+2.Black mold
+the appearance of black or brown lesions on the surface of ripe fruit; 
+lesions may be tiny flecks or may be large patches of decaying tissue; 
+during periods of humid weather, the lesions may become covered in black, 
+velvety spore masses.
+
+Control Measures:
+avoiding wetting the foliage when watering and harvesting fruits as soon as they are ripe can help to reduce the incidence of the disease; 
+in areas where disease is a persistent problem, chemical control may be necessary with an appropriate fungicide; 
+fungicide is usually applied 4-6 weeks prior to the first anticipated fruit harvest.
+
+3.Early blight
+oval shaped lesions with a yellow chlorotic region across the lesion; 
+concentric leaf lesions may be seen on infected leaves; 
+leaf tissue between veins is destroyed; 
+severe infections can cause leaves to completely collapse; 
+as the disease progresses leaves become severely blighted leading to reduced yield; 
+tomato stems may become infected with the fungus leading to Alternaria stem canker; 
+initial symptoms of of stem canker are the development of dark brown regions on the stem; 
+stem cankers may enlarge to girdle the whole stem resulting in the death of the whole plant; 
+brown streaks can be found in the vascular tissue above and below the canker region; 
+fruit symptoms include small black v-shaped lesions at the shoulders of the fruit (the disease is also known black shoulder); 
+lesions may also appear on the fruit as dark flecks with concentric ring pattern; 
+fruit lesions can seen in the field or may develop during fruit transit to the market; 
+the lesions may have a velvety appearance caused by sporulation of the fungus
+
+Control Measures:
+Apply appropriate fungicide at first sign of disease; 
+destroy any volunteer solanaceous plants (tomato, potato, nightshade etc); 
+practice crop rotation
+
+4.Fusarium wilt
+yellowing and wilting of leaves on one side of the leaf midrib or plant; 
+one-sided symptoms are caused by a blockage in the vascular system supplying the symptomatic side of the plant; 
+as the disease progresses, older leaves become necrotic and the plant begins to wilt; 
+fruit on infected plants is smaller and yield is reduced; damage to leaves makes fruit susceptible to sunscald; 
+stem symptoms may be mistaken for bacterial wilt but a bacterial ooze test will be negative; stem tissue becomes discolored brown
+
+Control Measures:
+Plant resistant varieties; sanitize all equipment regularly; 
+control root knot nematodes; rotate crops away from tomato for several years
+
+Cotton Diseases and symptoms:
+1.Alternaria leaf spot
+Small, circular brown lesions on cotyledons and seedling leaves which expand and develop a concentric pattern; 
+necrotic areas coalesce and often have a purple margin; 
+centers of lesions may dry out and drop form the plant creating a "shot-hole" appearance on the leaves.
+
+Control Measures:
+Plow crop residue into the soil to reduce inoculum levels; 
+provide plants with adequate irrigation and nutrients, particularly potassium; 
+applications of appropriate foliar fungicides may be required on susceptible cultivars.
+
+2.Asochyta blight
+Brown or gray spots on leaves surrounded by a red halo; 
+elongated red-purple cankers on stems cause the wilting and death of leaves above.
+
+Control Measures:
+plow crop debris into soil after harvest; crop rotation has little to no effect of control of disease.
+
+3.Cercospora leaf spot
+Circular red lesions on leaves which enlarge and turn white or gray in the center; 
+lesions often have a pattern of concentric rings and possess a red margin; 
+dark gray spore masses form in the centers of the lesions making them appear dark gray.
+
+Control Measures:
+Plow crop residue into the soil to reduce inoculum levels; 
+provide plants with adequate irrigation and nutrients; 
+applications of appropriate foliar fungicides may be required on susceptible cultivars.
+
+4.Fusarium wilt
+cotyledons become chlorotic at the edges and then necrotic; 
+older plants exhibit symptoms of wilting and leaf chlorosis; 
+wilting is usually gradual but may be pronounced after heavy summer rain; 
+if infection is severe plants become stunted and may be killed; 
+vascular system of infected plants becomes discolored and can be seen by cutting the stem.
+
+Control Measures:
+Use on certified, disease-free seed; plant varieties with higher resistance to the disease in areas with a history of Fusarium diseases; 
+fumigating the soil may reduce disease incidence.
